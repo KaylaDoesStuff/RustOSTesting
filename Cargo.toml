@@ -1,0 +1,9 @@
+[package]
+name = "Microsoft_Services"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winapi = "0.2.7"
+user32-sys = "0.2.0"
+time = "0.3.41"
